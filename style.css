@@ -51,7 +51,7 @@ h2{
     font-size: 3rem;
     margin: 15px 0;
     margin-bottom: 20px;
-    /* border: 2px solid red;/*debbug trick */
+    /*--------> border: 2px solid red;<---------------/*SUPER debbug trick */
 }
 .summary{
     display: grid;
@@ -298,3 +298,4 @@ button[type="submit"]:active{
         font-size: 1.8 rem;
     }
 }
+
